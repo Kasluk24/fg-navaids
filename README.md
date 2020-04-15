@@ -1,13 +1,14 @@
 # fg-navaids
-Update custom fixes and navaids for FlightGear
+Additional fixes and navaids for FlightGear
 
-Additional information: https://sourceforge.net/p/flightgear/mailman/message/35716882/
-
-Fixes from these airports added:
+**Fixes from these airports fully available:
 - LOWI (Innsbruck)
 - LSGS (Sion)
 - LSZH (Zürich)
 - LSZS (Samedan)
 
-Navaids added:
+**Navaids available:
 - WFJ LS DME (Weissfluhgipfel)
+
+**Installation:
+Just add de downloadet folder as additional scenery folder.
