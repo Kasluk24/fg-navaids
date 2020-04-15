@@ -1,2 +1,2 @@
 # fg-navaids
-FlightGear fix-dat and nav-dat with custom points
+Update custom fixes and navaids for FlightGear
