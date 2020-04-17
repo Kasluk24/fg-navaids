@@ -2,17 +2,24 @@
 Additional fixes and navaids for FlightGear
 
 
-**Fixes from these airports fully available:**
+**Available fixes per Airport:**
 - LOWI (Innsbruck)
 - LSGS (Sion)
 - LSZH (Zürich)
 - LSZS (Samedan)
 
 
-**Navaids available:**
+**Available navaids:**
 - WFJ LS DME (Weissfluhgipfel)
 
 
-**Installation:**
+**Pending fixes per airport:**
+- LSZC (Buochs)
 
-Just add de downloadet folder as additional scenery folder.
+
+**Pending navaids:**
+- ...
+
+
+**Installation:**
+- Just add de downloadet folder as additional scenery folder.
