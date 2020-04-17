@@ -1,20 +1,6 @@
 # fg-navaids
-Additional fixes and navaids for FlightGear
-
-### Available fixes per Airport
-* LOWI (Innsbruck)
-* LSGS (Sion)
-* LSZH (Zürich)
-* LSZS (Samedan)
-
-### Available navaids
-* WFJ LS DME (Weissfluhgipfel)
-
-### Pending fixes per airport
-* LSZC (Buochs)
-
-### Pending navaids
-* ...
+Additional fixes and navaids for FlightGear<br>
+Look at the file [OVERVIEW.md](/OVERVIEW.md) for an overview of the available points.
 
 ## Installation
 * Just add de downloadet folder as additional scenery folder.
