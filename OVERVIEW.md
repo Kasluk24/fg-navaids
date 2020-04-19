@@ -3,8 +3,8 @@
 ### Fixes per airport
 Airport ICAO | Airport name | References / charts (optional) | State (date)
 ------------ | ------------ | ------------------------------ | ------------
-LSZC | Buochs | - | pending
 LSGS | Sion | - | available (2020-04-15)
+LSZC | Buochs | - | available (2020-04-19)
 LSZH | Zürich | - | available (2020-04-15)
 LSZS | Samedan | - | available (2020-04-15)
 LOWI | Innsbruck | - | available (2020-04-15)
