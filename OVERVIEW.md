@@ -3,7 +3,7 @@
 ### Fixes per airport
 Airport ICAO | Airport name | References / charts (optional) | State (date)
 ------------ | ------------ | ------------------------------ | ------------
-EHAM | Amsterdam Schiphal | - | available (2020-04-21)
+EHAM | Amsterdam Schiphol | - | available (2020-04-21)
 LSGS | Sion | - | available (2020-04-15)
 LSZC | Buochs | - | available (2020-04-19)
 LSZH | Zürich | - | available (2020-04-15)
