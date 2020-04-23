@@ -4,7 +4,9 @@
 Airport ICAO | Airport name | References / charts (optional) | State (date)
 ------------ | ------------ | ------------------------------ | ------------
 EHAM | Amsterdam Schiphol | - | available (2020-04-21)
+LSGG | Genève | - | available (2020-04-23)
 LSGS | Sion | - | available (2020-04-15)
+LSZB | Bern-Belp | - | available (2020-04-23)
 LSZC | Buochs | - | available (2020-04-19)
 LSZH | Zürich | - | available (2020-04-15)
 LSZR | St. Gallen Altenrhein | - | available (2020-04-19)
