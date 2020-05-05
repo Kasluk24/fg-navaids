@@ -3,6 +3,7 @@
 ### Fixes per airport
 Airport ICAO | Airport name | References / charts (optional) | State (date)
 ------------ | ------------ | ------------------------------ | ------------
+EDDH | Hamburg Airport Helmut Schmidt | - | available (2020-05-05)
 EDDM | München Franz Josef Strauß | - | available (2020-05-05
 EHAM | Amsterdam Schiphol | - | available (2020-04-21)
 LFSB | Basel Mulhouse | - | available (2020-04-29)
